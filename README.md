@@ -1,2 +1,2 @@
 # jenputa
-Bismillah
+Pertama kali menggunakan ini
